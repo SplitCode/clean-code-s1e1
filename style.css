@@ -4,24 +4,24 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.matrix-wrapper {
+.matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.matrix-wrapper img {
+.matrix img {
   width: 100%;
 }
-.matrix-wrapper .more-information {
+.matrix .more-info {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-.matrix-wrapper { text-align: center;
+.matrix { text-align: center;
 }
 }
-.tasks-list-wrapper {
+.tasks-list {
   display: block;
   width: 500px;
   margin: 0 auto 0;
